@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wdowne14.github.io/official-aigame-com-2/sitemap.xml
